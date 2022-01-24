@@ -1,0 +1,54 @@
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\SW_T8_9_10.exe.config
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\concrt140.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\cvextern.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\msvcp140.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\vcruntime140.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\cvextern.lib
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\SW_T8_9_10.exe
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\SW_T8_9_10.pdb
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\ZedGraph.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\obj\x64\Debug\SW_T8_9_10.Form1.resources
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\obj\x64\Debug\SW_T8_9_10.Properties.Resources.resources
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\obj\x64\Debug\SW_T5_6.csproj.GenerateResource.Cache
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\obj\x64\Debug\SW_T8_9_10.exe
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\obj\x64\Debug\SW_T8_9_10.pdb
+C:\Users\kerif\Desktop\SW_T5_6_pusta_bez_dll\SW_T5_6_pusta_bez_dll\SW_T5_6\obj\x64\Debug\SW_T5_6.csprojResolveAssemblyReference.cache
+C:\Users\kerif\Desktop\zad 5 Botew Migdalski Firek\bin\x64\Debug\SW_T8_9_10.exe.config
+C:\Users\kerif\Desktop\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.exe
+C:\Users\kerif\Desktop\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.pdb
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\SW_T8_9_10.exe.config
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.exe
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.pdb
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\concrt140.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\cvextern.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\msvcp140.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\vcruntime140.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\cvextern.lib
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\SW_T8_9_10.exe
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\SW_T8_9_10.pdb
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\ZedGraph.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T5_6.csprojResolveAssemblyReference.cache
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.Form1.resources
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.Properties.Resources.resources
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\zad 5 Botew Migdalski Firek\obj\x64\Debug\SW_T5_6.csproj.GenerateResource.Cache
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\Projekt zad. 30 Rdza Botew Migdalski Firek\bin\x64\Debug\SW_T8_9_10.exe.config
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\Projekt zad. 30 Rdza Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.exe
+C:\Users\kerif\Documents\Codes\Systemy Wizyjne\SystemyWizyjne\Projekt zad. 30 Rdza Botew Migdalski Firek\obj\x64\Debug\SW_T8_9_10.pdb
